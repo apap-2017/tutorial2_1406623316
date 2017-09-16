@@ -1,0 +1,9 @@
+Latihan Request Paramaeter
+
+1. Aplikasi akan tetap mengembalikan halaman seperti localhost:8080/greeting?name=namauser.
+
+2. Ketika header method masih belum diubah, maka akan terjadi Whitelabel page error karena variable string untuk parameter "name" tidak ada. Sedangkan setelah diubah, maka halaman akan mengembalikan hasil yang normal dengan nama user adalah null.
+
+3. Ketika tidak ada nama user yang masuk ke dalam variable parameter, maka aplikasi akan mengembalikan default value yaitu "dunia".
+
+4. Karena tag th:text dari Thymeleaf akan menggantikan semua teks pada tag html yang sama. 

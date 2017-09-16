@@ -1,0 +1,9 @@
+Latihan Project HelloWorld
+
+1. Tidak compile error, namun ketika dibuka di localhost:8080/hello akan terjadi Whitelabel page error. Aplikasi bisa dibuka di localhost:8080/hello123
+
+2. Tidak ada compile error dan tidak error ketika ditampilkan di browser
+
+3. Tidak ada compile error namun ketika dibuka di browser akan whitelabel page error. Return String tersebut menandakan page yang akan ditampilkan.
+
+ 

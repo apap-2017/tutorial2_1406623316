@@ -1,0 +1,9 @@
+Latihan Path Vatiable
+
+1. 
+- Ketika mengakses localhost:8080/greeting/ , maka hasilnya adalah "Selamat datang dunia". hal tersebut terjadi karena masih adanya fungsi greeting() sebelumnya sehingga adanya nilai defaultValue untuk variable parameter yang null, yaitu "dunia".
+
+- Ketika mengakses localhost:8080/greeting/ setelah diubah header methodnya, maka akan menghasilkan "Selamat datang dengklek".
+
+- Ketika mengakses localhost:8080/greeting/channek setelah diubah header methodnya, maka akan menghasilkan "Selamat datang channek". 
+ 
